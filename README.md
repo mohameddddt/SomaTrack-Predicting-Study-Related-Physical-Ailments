@@ -39,6 +39,3 @@ SomaTrack/
 1. Clone the repository
 2. Install dependencies: `pip install -r requirements.txt`
 3. Open the Jupyter notebook: `jupyter notebook notebooks/SomaTrack.ipynb`
-
-## Team
-Mohamed — Machine Learning Project
